@@ -1,0 +1,10 @@
+K 10
+svn:ignore
+V 51
+CHECKED_OUT_*
+downloaded_*
+kraken
+octane
+sunspider
+
+END

@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 25
+/svn/!svn/ver/19623/trunk
+END
+PRESUBMIT.py
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/18575/trunk/PRESUBMIT.py
+END
+.gitignore
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/16931/trunk/.gitignore
+END
+LICENSE.strongtalk
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/6662/trunk/LICENSE.strongtalk
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/19563/trunk/Makefile
+END
+OWNERS
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/svn/!svn/ver/18767/trunk/OWNERS
+END
+LICENSE.v8
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/6662/trunk/LICENSE.v8
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/19563/trunk/LICENSE
+END
+AUTHORS
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/19563/trunk/AUTHORS
+END
+WATCHLISTS
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/17156/trunk/WATCHLISTS
+END
+LICENSE.valgrind
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/6662/trunk/LICENSE.valgrind
+END
+ChangeLog
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/19563/trunk/ChangeLog
+END
+.clang-format
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/18251/trunk/.clang-format
+END
+Makefile.nacl
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/18317/trunk/Makefile.nacl
+END
+DEPS
+K 25
+svn:wc:ra_dav:version-url
+V 30
+/svn/!svn/ver/18512/trunk/DEPS
+END
+codereview.settings
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/18330/trunk/codereview.settings
+END
+Makefile.android
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/19563/trunk/Makefile.android
+END

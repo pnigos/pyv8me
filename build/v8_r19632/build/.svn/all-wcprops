@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/svn/!svn/ver/19563/trunk/build
+END
+shim_headers.gypi
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/15448/trunk/build/shim_headers.gypi
+END
+gyp_v8.py
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/18454/trunk/build/gyp_v8.py
+END
+features.gypi
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/19563/trunk/build/features.gypi
+END
+all.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/18041/trunk/build/all.gyp
+END
+toolchain.gypi
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/19563/trunk/build/toolchain.gypi
+END
+android.gypi
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/19563/trunk/build/android.gypi
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/14404/trunk/build/README.txt
+END
+gyp_v8
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/18467/trunk/build/gyp_v8
+END
+standalone.gypi
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/19563/trunk/build/standalone.gypi
+END
