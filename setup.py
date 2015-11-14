@@ -42,7 +42,7 @@ BOOST_HOME = None
 BOOST_MT = is_osx
 BOOST_STATIC_LINK = False
 PYTHON_HOME = None
-V8_HOME = None
+V8_HOME = "/opt/pyv8me/build/v8_r19632/"
 V8_SVN_URL = "http://v8.googlecode.com/svn/trunk/"
 V8_SVN_REVISION = None
 

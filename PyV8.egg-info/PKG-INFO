@@ -1,6 +1,6 @@
 Metadata-Version: 1.1
 Name: PyV8
-Version: 1.0-dev
+Version: 1.0.dev0
 Summary: Python Wrapper for Google V8 Engine
 Home-page: svn+http://pyv8.googlecode.com/svn/trunk/#egg=pyv8-1.0-dev
 Author: Flier Lu
